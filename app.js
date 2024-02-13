@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 let nuemroSecreto = generarNumeroSecreto();
 
 function asignarTextoElemento(elemento,texto){
@@ -25,4 +26,4 @@ function generarNumeroSecreto(){
 }
 
 
-asignarTextoElemento('h1','Juego del numero secreto')
+=======
